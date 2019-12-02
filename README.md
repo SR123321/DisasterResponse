@@ -1,5 +1,6 @@
 # DisasterResponse
-Disaster Response Udacity Project
+Disaster Response Udacity Project:
+A machine learning pipeline implemented through a web app that classifies messages to assist with disaster emergency response.
 
 Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
