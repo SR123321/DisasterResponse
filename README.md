@@ -14,5 +14,17 @@ Instructions:
 
 3. Go to http://0.0.0.0:3001/
 
+Files:
+
+•	app/templates/* : templates/html files for web app.
+
+•	data/process_data.py: Extract Train Load (ETL) pipeline used for data cleaning, feature extraction, and storing data in a SQLite database.
+
+•	models/train_classifier.py : A machine learning pipeline that loads data, trains a model, and saves the trained model as a .pkl file for later use.
+
+•	run.py : The file used to launch the Flask web app used to classify disaster messages.
+
+
 Acknowledgements:
+
 Thanks to Figure Eight for the data.
